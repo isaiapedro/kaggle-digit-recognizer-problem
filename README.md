@@ -1,4 +1,4 @@
-# Digit Recognizer on Kaggle.com! 
+# Digit Recognizer on Kaggle.com! 8️⃣
 ### (Convolutional Neural Network)
 
 ## Contents
