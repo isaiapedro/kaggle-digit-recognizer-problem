@@ -1,5 +1,5 @@
-# Store Sales Forecasting on Kaggle.com! 
-### (Predictive Model for Time Series)
+# Digit Recognizer on Kaggle.com! 
+### (Convolutional Neural Network)
 
 ## Contents
 
@@ -28,11 +28,11 @@ This repository was made to solve *Digit Recognizer* on [Kaggle.com](https://www
 
 **A brief explanation of the problem:**
 
-> In this “getting started” competition, you’ll use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.
+> In this competition, your goal is to correctly identify digits from a dataset of tens of thousands of handwritten images.
 
 <br/>
 
-This work have the objective of completing the challenge with the best precision possible and take a first hands-on look into time series forecasting and larger datasets.
+This work have the objective of completing the challenge with the best precision possible and take a first hands-on look into Convolutional Neural Networks and Computer Vision
 
 ## Data Overview
 
@@ -44,7 +44,7 @@ This work have the objective of completing the challenge with the best precision
 
 ## Conclusion
 
-Thanks for reading up until here. We had a ton of fun doing this notebook and got a lot of useful insights on data manipulation and the implementation of some ML models, such as Linear Regression and XGBoost.
+Thanks for reading up until here. I had a ton of fun doing this notebook and got a lot of useful insights on Convolution and how to setup a Neural Network with three hidden layers that acts like filters.
 
 If you want to see more Kaggle solutions, see the Flower Classification Problem or go to my github page. Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/isaiapedro/) or my [Webpage](https://github.com/isaiapedro/Portfolio-Website).
 
